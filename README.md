@@ -16,4 +16,4 @@
 
 ## Репозиторий
 
-https://github.com/barry-bosu/ono-tebe-nado-ad
+https://github.com/khanhaziq782-ctrl/ono-tebe-nado-ad
